@@ -1,0 +1,113 @@
+————————————————————————————————————————————
+V1.7.3 Update
+————————————————————————————————————————————
+AnimationViewController.m
+get_stores.php
+FavoritesViewController.m
+DetailViewController.m
+FeaturedViewController.m
+MapViewController.m
+SearchViewController.m
+SearchResultsViewController.m
+StoreViewController.m
+CategoryViewController.m
+RegisterViewController.m
+LoginViewController.m
+ProfileViewController.m
+
+————————————————————————————————————————————
+V1.7.2 Update
+————————————————————————————————————————————
+Cannot login/register in the app.
+Added two .framework in build phases (CoreBluetooth.framework, SafariServices.framework)
+
+————————————————————————————————————————————
+V1.7.1 Update
+————————————————————————————————————————————
+AppDelegate.m
+AnimationView.xib
+CategoryCell.xib
+FeaturedViewController.m
+MapViewController.m
+StoreViewController.m
+AnimationViewController.m
+ContentViewController.m
+SearchViewController.m
+GoogleMobileAds.framework
+
+store_insert.php
+ControllerRest.php
+ControllerUser.php
+get_home_stores_news.php
+get_stores_news.php
+get_stores.php
+stores.php
+
+————————————————————————————————————————————
+V1.7 Update
+————————————————————————————————————————————
+Migration on the latest build
+
+
+————————————————————————————————————————————
+V1.6.8 Update
+————————————————————————————————————————————
+WeatherViewController.m
+Libraries > GoogleMobileAdsSdk > GoogleMobileAds.framework
+
+————————————————————————————————————————————
+V1.6.7 Update
+————————————————————————————————————————————
+We do not recommend overwriting file. You need to check the file
+side by side to see the changes.
+StoreFinder-Info.plist
+GoogeAdMob SDK
+SideViewController.m
+DetailViewController.m
+AppDelegate.m
+StoreFinder > Project Settings > Targets (Store Finder) > General & Build Settings
+
+————————————————————————————————————————————
+V1.6.6 Update
+————————————————————————————————————————————
+PHP Backend
+rest/register.php
+rest/login.php
+photo_store_insert.php
+photo_store_update.php
+index.php
+controllers/ControllerUser.php
+
+FeaturedViewController.m
+ContentViewController.m
+FavoritesViewController.m
+AppDelegate.m
+Localizable.strings
+DetailViewController.m
+StoreViewController.m
+SearchResultViewController.m
+————————————————————————————————————————————
+V1.6.5 Update
+————————————————————————————————————————————
+PHP Backend
+rest/register.php
+
+————————————————————————————————————————————
+V1.6.4 Update
+————————————————————————————————————————————
+iOS Project
+DetailViewController.m
+CategoryViewController.m
+SearchViewController.m
+RegisterViewController.m
+LoginViewController.m
+ProfileViewController.m
+
+PHP Backend
+rest/register.php
+rest/login.php
+controllers/ControllerUser.php
+category_insert.php
+category_update.php
+news_insert.php
+news_update.php
